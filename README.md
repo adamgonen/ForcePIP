@@ -1,3 +1,3 @@
-# ForcePIP
+# [ForcePIP](https://chrome.google.com/webstore/detail/forcepip/cgadklekpacccapkencnkjkiofmeipab)
 
-Press the 
+Simple Chrome extension that allows you to make any video play using Picture-in-Picture.
